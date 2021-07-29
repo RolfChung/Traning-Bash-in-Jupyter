@@ -1,0 +1,7 @@
+# gitignore files
+.ipynb_checkpoints/Bash_Kernel_JupyterNotebook-checkpoint.ipynb
+.ipynb_checkpoints
+config.py
+__pycache__
+config.path
+remove.ipynb
