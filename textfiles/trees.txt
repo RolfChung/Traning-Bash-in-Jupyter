@@ -1,0 +1,3 @@
+oak 
+palm 
+spruce 

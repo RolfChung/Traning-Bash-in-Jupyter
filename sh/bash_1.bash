@@ -1,0 +1,1 @@
+cut -d , -f 1 csv_files/nba_historic/*.csv | grep -v Date | sort | uniq

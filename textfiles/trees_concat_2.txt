@@ -1,0 +1,6 @@
+oak 
+palm 
+spruce 
+birch 
+lime 
+maple 
